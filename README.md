@@ -10,18 +10,6 @@ This project is a Convolutional Neural Network (CNN) implemented using TensorFlo
 - Visualization of random predictions.
 - Model saving in TensorFlow `.keras` format.
 
-## Dataset
-The project assumes the dataset is structured as follows:
-
-./CNN_dataset/
-    ├── train/
-    │   ├── class_1/
-    │   ├── class_2/
-    │   └── ...
-    └── test/
-        ├── class_1/
-        ├── class_2/
-        └── ...
 
 ## Requirements
 - Python 3.7+
@@ -40,7 +28,6 @@ The project assumes the dataset is structured as follows:
 
 ## Results
 The model achieves test accuracy of approximately **0.9933%** (based on your dataset). Check the output for detailed metrics.
-
 ## Contributors
 - [Shafat Alam](https://github.com/shafat21)
 - [Marjana Behum](https://github.com/marjana15)
