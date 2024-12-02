@@ -42,8 +42,8 @@ The project assumes the dataset is structured as follows:
 The model achieves test accuracy of approximately **0.9933%** (based on your dataset). Check the output for detailed metrics.
 
 ## Contributors
-- [Shafat Hossain](https://github.com/shafat21)
-- [Marjana Akter](https://github.com/marjana15)
+- [Shafat Alam](https://github.com/shafat21)
+- [Marjana Behum](https://github.com/marjana15)
 
 ## License
 This project is licensed under the MIT License.
